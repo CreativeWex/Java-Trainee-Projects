@@ -1,0 +1,17 @@
+.DS_Store
+.idea
+
+Day03/ex02/*.iml
+Day03/ex02/out
+
+Day05/ex00/Chat/target
+Day05/ex01/Chat/target
+Day05/ex01/Chat/src/*.iml
+Day05/ex02/Chat/target
+Day05/ex02/Chat/src/*.iml
+Day05/ex03/Chat/target
+Day05/ex03/Chat/src/*.iml
+Day05/ex00/.idea
+Day05/ex01/.idea
+Day05/ex02/.idea
+Day05/ex03/.idea

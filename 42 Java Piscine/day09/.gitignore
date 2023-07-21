@@ -1,0 +1,7 @@
+ex00/Chat/socket-client/target
+ex00/Chat/socket-client/*.iml
+ex00/Chat/socket-client/.idea
+
+ex00/Chat/socket-server/.idea
+ex00/Chat/socket-server/*.iml
+ex00/Chat/socket-server/target
