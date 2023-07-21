@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Все люди</title>
+</head>
+<body>
+<h1> Все люди</h1>
+    <hr>
+    <a th:href="@{/people/new}">
+        <button>Создать нового пользователя</button>
+    </a>
+    <br>
+    <br>
+    <a href="http://localhost:8080/test-batch-update"><button>Отладка</button></a>
+    <a href="http://localhost:8080/admin"><button>Панель администратора</button></a>
+
+
+    <hr>
+    <div th:each="person : ${peopleList}">
+        <a th:href="@{/people/{id}(id=${person.getId()})}"
+           th:text="${person.getName() + ', ' +  person.getAge()}">user</a>
+    </div>
+<br>
+</body>
+</html>
