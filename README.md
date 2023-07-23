@@ -18,7 +18,7 @@
 [LeetCode and CodeWars](https://github.com/CreativeWex/Java-Trainee-Projects/tree/main/LeetCode%20and%20CodeWars) - небольшой репозиторий сохраненных алгоритмических задач.
 <br>**Цель**: практика алгоритмов.
 
-## Хакатон
+## Хакатоны
 
 [Fraud-Hackathon](https://github.com/CreativeWex/Java-Trainee-Projects/tree/main/Fraud%20Hackathon) - хакатон, приложение для отслеживания мошеннических банковских операций.
 <br>**Цель**: ознакомление с BigData, практика работы с JSON.
