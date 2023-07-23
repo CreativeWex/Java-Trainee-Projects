@@ -7,7 +7,7 @@
 [Web Books](https://github.com/CreativeWex/Java-Trainee-Projects/tree/main/Web%20Books) -  full stack веб-приложение для библиотечной логистики, цифровая библиотека.
 <br>**Цель**: проект для портфолио, закрепление изученных навыков.
 
-[CRUD Spring Boot, MVC, JdbcTemplate](https://github.com/CreativeWex/Java-Trainee-Projects/tree/main/CRUD%20Spring%20Boot%2C%20MVC%2C%20JdbcTemplate) - full stack веб-приложение дял работы с клиентами.
+[CRUD Spring Boot, MVC, JdbcTemplate](https://github.com/CreativeWex/Java-Trainee-Projects/tree/main/CRUD%20Spring%20Boot%2C%20MVC%2C%20JdbcTemplate) - full stack веб-приложение для работы с клиентами.
 <br>**Цель**: практика работы с JdbcTemplate, Thymeleaf, PostgreSQL.
 
 [Weather Report](https://github.com/CreativeWex/Java-Trainee-Projects/tree/main/Weather%20Report) - JavaFX оконное погодное приложение для просмотра текущих метеорологических данных в выбранной точке мира.
