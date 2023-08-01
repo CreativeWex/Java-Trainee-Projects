@@ -43,5 +43,17 @@ public class PredicateDemo {
         System.out.println(beginsWithJ.or(beginsWithN).and(endsWithA).test("BasonA"));
         System.out.println(beginsWithJ.or(beginsWithN).and(endsWithA).test("JasonB"));
         System.out.println(beginsWithJ.or(beginsWithN).and(endsWithA).test("NasonB"));
+
+        //тестовое 1
+        System.out.println("Тестовое 1");
+        Predicate<String> predicate1 = t -> {
+            System.out.print("predicate1");
+            return t.startsWith(" ");
+        };
+        Predicate<String> predicate2 = t -> {
+            System.out.print("predicate2");
+            return t.length() > 6;
+        };
+        predicate1.and(predicate2).test("Hello world!!!");
     }
 }
