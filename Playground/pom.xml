@@ -25,6 +25,10 @@
             <artifactId>sl4j</artifactId>
             <version>1.0.13.5</version>
         </dependency>
-
+        <dependency>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+            <version>1.2.17</version>
+        </dependency>
     </dependencies>
 </project>
